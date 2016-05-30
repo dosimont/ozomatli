@@ -28,7 +28,7 @@ Clone, compile and install [csvreader](https://github.com/dosimont/csvreader).
 Clone, compile and install ozomatli
 
     $ git clone git@github.com:dosimont/ozomatli.git
-    $ cd tototl
+    $ cd ozomatli
     $ make
     
 ##Usage
